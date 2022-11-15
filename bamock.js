@@ -65,7 +65,7 @@ function check() {
     if (q11=="Answer4") {c++}
     if (q12=="Answer3") {c++}
     if (q13=="Answer1") {c++}
-    if (q14=="Answer3") {c++}
+    if (q14=="Answer4") {c++}
     if (q15=="Answer2") {c++}
     if (q16=="Answer3") {c++}
     if (q17=="Answer4") {c++}
