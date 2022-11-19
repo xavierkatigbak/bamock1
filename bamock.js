@@ -204,9 +204,9 @@ function check() {
     if (q100=="Answer3") {c++}
     bamock.style.display="none";
 
-    if (c<50) {
-        result.textContent='FAILED. Your score is  ' + c + '/50'
+    if (c<100) {
+        result.textContent='FAILED. Your score is  ' + c + '/100'
     } else {
-        result.textContent='PASSED. Your score is  ' + c + '/50'
+        result.textContent='PASSED. Your score is  ' + c + '/100'
     }
 }
