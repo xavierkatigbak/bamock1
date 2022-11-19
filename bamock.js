@@ -50,6 +50,56 @@ function check() {
     var q48=document.bamock.question48.value;
     var q49=document.bamock.question49.value;
     var q50=document.bamock.question50.value;
+    var q51=document.bamock.question51.value;
+    var q52=document.bamock.question52.value;
+    var q53=document.bamock.question53.value;
+    var q54=document.bamock.question54.value;
+    var q55=document.bamock.question55.value;
+    var q56=document.bamock.question56.value;
+    var q57=document.bamock.question57.value;
+    var q58=document.bamock.question58.value;
+    var q59=document.bamock.question59.value;
+    var q60=document.bamock.question60.value;
+    var q61=document.bamock.question61.value;
+    var q62=document.bamock.question62.value;
+    var q63=document.bamock.question63.value;
+    var q64=document.bamock.question64.value;
+    var q65=document.bamock.question65.value;
+    var q66=document.bamock.question66.value;
+    var q67=document.bamock.question67.value;
+    var q68=document.bamock.question68.value;
+    var q69=document.bamock.question69.value;
+    var q70=document.bamock.question70.value;
+    var q71=document.bamock.question71.value;
+    var q72=document.bamock.question72.value;
+    var q73=document.bamock.question73.value;
+    var q74=document.bamock.question74.value;
+    var q75=document.bamock.question75.value;
+    var q76=document.bamock.question76.value;
+    var q77=document.bamock.question77.value;
+    var q78=document.bamock.question78.value;
+    var q79=document.bamock.question79.value;
+    var q80=document.bamock.question80.value;
+    var q81=document.bamock.question81.value;
+    var q82=document.bamock.question82.value;
+    var q83=document.bamock.question83.value;
+    var q84=document.bamock.question84.value;
+    var q85=document.bamock.question85.value;
+    var q86=document.bamock.question86.value;
+    var q87=document.bamock.question87.value;
+    var q88=document.bamock.question88.value;
+    var q89=document.bamock.question89.value;
+    var q90=document.bamock.question90.value;
+    var q91=document.bamock.question91.value;
+    var q92=document.bamock.question92.value;
+    var q93=document.bamock.question93.value;
+    var q94=document.bamock.question94.value;
+    var q95=document.bamock.question95.value;
+    var q96=document.bamock.question96.value;
+    var q97=document.bamock.question97.value;
+    var q98=document.bamock.question98.value;
+    var q99=document.bamock.question99.value;
+    var q100=document.bamock.question100.value;
     var result=document.getElementById('result');
     var bamock=document.getElementById("bamock");
     if (q1=="Answer2") {c++}
@@ -102,6 +152,56 @@ function check() {
     if (q48=="Answer3") {c++}
     if (q49=="Answer3") {c++}
     if (q50=="Answer4") {c++}
+    if (q51=="Answer2") {c++}
+    if (q52=="Answer2") {c++}
+    if (q53=="Answer3") {c++}
+    if (q54=="Answer3") {c++}
+    if (q55=="Answer3") {c++}
+    if (q56=="Answer4") {c++}
+    if (q57=="Answer1") {c++}
+    if (q58=="Answer1") {c++}
+    if (q59=="Answer3") {c++}
+    if (q60=="Answer2") {c++}
+    if (q61=="Answer3") {c++}
+    if (q62=="Answer1") {c++}
+    if (q63=="Answer1") {c++}
+    if (q64=="Answer4") {c++}
+    if (q65=="Answer1") {c++}
+    if (q66=="Answer2") {c++}
+    if (q67=="Answer1") {c++}
+    if (q68=="Answer3") {c++}
+    if (q69=="Answer4") {c++}
+    if (q70=="Answer1") {c++}
+    if (q71=="Answer2") {c++}
+    if (q72=="Answer2") {c++}
+    if (q73=="Answer1") {c++}
+    if (q74=="Answer2") {c++}
+    if (q75=="Answer4") {c++}
+    if (q76=="Answer2") {c++}
+    if (q77=="Answer3") {c++}
+    if (q78=="Answer4") {c++}
+    if (q79=="Answer1") {c++}
+    if (q80=="Answer3") {c++}
+    if (q81=="Answer4") {c++}
+    if (q82=="Answer1") {c++}
+    if (q83=="Answer3") {c++}
+    if (q84=="Answer2") {c++}
+    if (q85=="Answer3") {c++}
+    if (q86=="Answer3") {c++}
+    if (q87=="Answer1") {c++}
+    if (q88=="Answer4") {c++}
+    if (q88=="Answer3") {c++}
+    if (q90=="Answer2") {c++}
+    if (q91=="Answer1") {c++}
+    if (q92=="Answer2") {c++}
+    if (q93=="Answer3") {c++}
+    if (q94=="Answer2") {c++}
+    if (q95=="Answer4") {c++}
+    if (q96=="Answer1") {c++}
+    if (q97=="Answer4") {c++}
+    if (q98=="Answer4") {c++}
+    if (q99=="Answer2") {c++}
+    if (q100=="Answer3") {c++}
     bamock.style.display="none";
 
     if (c<50) {
