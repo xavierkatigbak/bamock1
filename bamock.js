@@ -190,7 +190,7 @@ function check() {
     if (q86=="Answer3") {c++}
     if (q87=="Answer1") {c++}
     if (q88=="Answer4") {c++}
-    if (q88=="Answer3") {c++}
+    if (q89=="Answer3") {c++}
     if (q90=="Answer2") {c++}
     if (q91=="Answer1") {c++}
     if (q92=="Answer2") {c++}
